@@ -1,0 +1,19 @@
+logical operators
+allow us to combine multiple conditions. work only with boolean value(true,false).
+there are 3 log.operatores..
+first is NOT !  . second is AND  ||  , thirt one is &&
+we used them
+1.they can simplify the logic,its shorter way with them.
+2.we used them to do code faster,its reduce the lines of code that we have to write
+NOT operator !
+its reversed the conditions..if something is true,with this operator in front we will make it false,or false to true
+for examlple
+System.out.println(!true);  will print false
+OR operator ||
+if i have 2 or more  conditions,its combines them and returned true as long as there is one condition is true.if all the conditions
+become false it returnes to false. if there True is always True
+if you by mistake put small letter we can do equals Ignore case, and will ignore mistake with lower letter
+AND &&
+it can also combine more conditions.it only returns true id all the conditions are true
+
+

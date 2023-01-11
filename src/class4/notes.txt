@@ -1,0 +1,39 @@
+Operators :
+Operators are different symbols that we used to perform operations like additions,-,/,*
+to compare if the numbers are greater or not <  >
+there are three main types od operators. Arithmetic operators, Relational operators, and logical operators.
+Arithmetical operators:
+We used them to perform simple Math operations
+- addition
++ subtraction
+/  division
+*  multiplication
+%  modulus or (when we are dividing something,left over is modulus-reminder)
+
+Relational operators:
+Are used to compare two quantities or entities,or if something is bigger than other think, or  if two numbers are same
+or not or if two boolean variables contain same values or not
+
+== we used to check if two variables are equal or contain same value or not.
+if they contain we get true,if not we get false as answer in console
+!= we used to check if two variables not contain the same value. we get true if they are not same
+>  used to check if one value s greater than other value..if is greater we get true
+<  used to check if one value is smaller than other value left side smaller of the right side..if is,we get true
+>=  if the value on left is greater than the value on right side or if they are same,we will get a true.
+<= if the value on the left is smaller than value on right side,or if they are same,we will get a true.
+Conditional constructions
+Used to write conditional code. A piece of code that execute based on a condition is true that Java execute the code
+otherwise it skips code.
+How to write If-else conditions:
+if(condition){
+any line of code even another if condition
+if(){
+}
+Imortants notes:
+for String we use equals method instead of === sign because it is a non primitive data type
+we can cmd=opt=l for mac or ctrl=alt=l for windows to format our code
+if we are confused about brackets we can click on opening or closing part to check the other part
+
+if else conditions
+when we have to test the same variable for multiple conditions i should use IF ELSE IF
+when we have multiple conditions and these conditions are dependent on each other i should use NESTED IF

@@ -1,0 +1,9 @@
+    What are variable?
+    variable are containers and boxes n the memory where we store data for us.
+    Why we need Variable:
+    Before we can ask the computer to do something for us,we need to store information and instructions in a file then
+    we feed those to the computer and computer does that thing for us.
+    How to create the variables(Syntax):
+    1) We need to tell the computer what type of box/container/variable we need.
+    2) We need to give a name to the box.
+    3)

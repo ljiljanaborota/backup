@@ -1,0 +1,14 @@
+Scanner class
+Helps use take the input from keyboard
+Logical Operators
+Just another set of symbols that we can use to combine multiple boolean values.
+there are Logical operators  !  ||  &&
+1 operator NOT (!)
+not is used to change condicions..where ever we put that sign,its change conditions from false to true and reverse
+2.operator || OR
+ its means that if there is one true,than its true..one needs to be true
+3.operator && AND
+ it means both values are true
+ SWITCH CASE
+ statement are other way of achiving same as IF ELSE if condition.
+ we used them because is faster way..
